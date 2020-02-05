@@ -119,7 +119,7 @@ address.
 {% endif %}
 
 <p id="rooms">
-  <strong>Rooms:</strong> The course has been assigned to multiple rooms:
+  <strong>Rooms:</strong> This course has been assigned to multiple rooms
 </p>
 <ul>
 	<li>Thursday 9:30-12:30 & 13:30-17:00:  Room D1.112</li>
@@ -150,7 +150,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed <a href="https://datacarpentry.org/geospatial-workshop/setup.html"</a>.
 </p>
 
 {% comment %}
