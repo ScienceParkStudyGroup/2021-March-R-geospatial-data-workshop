@@ -10,7 +10,7 @@ humandate: "Mar 12-13, 2020"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00-5:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-03-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Zsophie Koma (Th)", "Bart Kraunstauber (Th)", "Stacy Shinneman (Fri)", Johannes De Groeve (Fri)"] # boxed
+instructor: ["Zsophie Koma (Th)", "Bart Kraunstauber (Th)", "Stacy Shinneman (Fri)", "Johannes De Groeve (Fri)"] # boxed
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -119,12 +119,12 @@ address.
 {% endif %}
 
 <p id="rooms">
-  <strong>Rooms:</strong> Unfortunately we were assigned to multiple rooms:
+  <strong>Rooms:</strong> The course has been assigned to multiple rooms:
 </p>
 <ul>
-	<li>Thursday 9:30-12:30 & 13:30-17:00:  Room D1.112</a></li>
-	<li>Friday 9:30-12:00:  Room A1.04</a></li>
-  	<li>Friday 13:00-17:00:  Room B0.203</a></li>
+	<li>Thursday 9:30-12:30 & 13:30-17:00:  Room D1.112</li>
+	<li>Friday 9:30-12:00:  Room A1.04</li>
+  <li>Friday 13:00-17:00:  Room B0.203</li>
 </ul>
 <p id="includes">
   <strong>Included:</strong> Coffee and tea will be included; Lunch is <u>not</u> included.
