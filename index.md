@@ -13,7 +13,6 @@ enddate: 2020-03-13        # machine-readable end date for the workshop in YYYY-
 instructor: ["Zsophie Koma (Th)", "Bart Kraunstauber (Th)", "Stacy Shinneman (Fri)", Johannes De Groeve (Fri)"] # boxed
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
