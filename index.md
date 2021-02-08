@@ -1,17 +1,17 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Introduction to working with geospatial data in R"        # brief name of host site without address 
-address: "Science Park 904, University of Amsterdam, Faculty of Science"      # full street address of workshop 
+address: "Online course"      # full street address of workshop 
 country: "nl"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "52"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "4"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "12-13 March 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "TBD March 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-03-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-03-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Zsofia Koma (Th)", "Bart Kraunstauber (Th)", "Stacy Shinneman (Fri)", "Johannes De Groeve (Fri)"] # boxed
-helper: ["Berend Wijers", "Maja Bradaric", "Elspeth Sage"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+startdate: 2021-03-XX      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-03-XX        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Stacy Shinneman", "Johannes De Groeve"] # boxed
+helper: ["XXXXX", "XXXXX", "XXXXX"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
