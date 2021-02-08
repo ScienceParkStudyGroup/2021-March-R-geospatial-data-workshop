@@ -1,16 +1,16 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Introduction to working with geospatial data in R"        # brief name of host site without address 
-address: "Science Park 904, University of Amsterdam, Faculty of Science"      # full street address of workshop 
+address: "Course will be held online"      # full street address of workshop 
 country: "nl"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "52"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "4"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "12 & 13 March 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "TBD March 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-03-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-03-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Zsophie Koma (Th)", "Bart Kraunstauber (Th)", "Stacy Shinneman (Fri)", "Johannes De Groeve (Fri)"] # boxed
+startdate: 2021-03-XX      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-03-XX        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Stacy Shinneman", "Johannes De Groeve"] # boxed
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -129,15 +129,11 @@ address.
 {% endif %}
 
 <p id="rooms">
-  <strong>Rooms:</strong> Unfortunately we were assigned to multiple rooms:
+  <strong>Online course:</strong> We will use Zoom to meet: https://uva-live.zoom.us/. Each presentation will start with a brief presentation to help you understand how to get started with the module, then we will send small groups to breakout rooms.
 </p>
-<ul>
-	<li>Thursday 9:30-12:30 & 13:30-17:00:  Room D1.112</a></li>
-	<li>Friday 9:30-12:00:  Room A1.04</a></li>
-  	<li>Friday 13:00-17:00:  Room B0.203</a></li>
-</ul>
+
 <p id="includes">
-  <strong>Included:</strong> Coffee and tea will be included, Lunch is <u>not</u> included.
+  <strong>Included:</strong>
 </p>
 
 {% comment %}
@@ -170,23 +166,6 @@ ACCESSIBILITY
 Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
-<p id="accessibility">
-  <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
 
 {% comment %}
 CONTACT EMAIL ADDRESS
