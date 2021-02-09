@@ -107,28 +107,9 @@ if the latitude and longitude of the workshop have been set.  You
 can use https://itouchmap.com/latlong.html to find the lat/long of an
 address.
 {% endcomment %}
-{% if page.latitude and page.longitude %}
-<p id="where">
-  <strong>Where:</strong>
-  {{page.address}}.
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
-</p>
-{% endif %}
 
 <p id="rooms">
-  <strong>Rooms:</strong> This course has been assigned to multiple rooms
-</p>
-<ul>
-	<li>Thursday 9:30-12:30 & 13:30-17:00:  Room D1.112</li>
-	<li>Friday 9:30-12:00:  Room A1.04</li>
-  <li>Friday 13:00-17:00:  Room B0.203</li>
-</ul>
-<p id="includes">
-  <strong>Included:</strong> Coffee and tea will be included; Lunch is <u>not</u> included.
-</p>
+  <strong>Online course:</strong> We will meet using Zoom or Discord. Each session will begin in the main room with a short presentation by the instructor to help you get started with the module. Participants will then go to breakout rooms to work together on the module in groups of 2-3. Instructors and helpers will be available at all times for questions and problem solving.
 
 {% comment %}
 DATE
@@ -152,19 +133,11 @@ special instructions.
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organizers have checked that:
 </p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
+  If we can help making learning easier for
+  you, please get in touch (using contact details below) and we will
+  try our best to help.
 </p>
 
 {% comment %}
