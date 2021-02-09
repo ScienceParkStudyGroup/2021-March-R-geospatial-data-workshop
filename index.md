@@ -132,10 +132,7 @@ special instructions.
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-</p>
-<p>
-  If we can help making learning easier for
+  accessible to everybody. If we can help making learning easier for
   you, please get in touch (using contact details below) and we will
   try our best to help.
 </p>
